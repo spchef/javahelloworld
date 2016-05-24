@@ -4,7 +4,6 @@ public class JavaHelloWorld
 	{
 		System.out.println("Docker testing in Auto Build ");
 
-   		System.out.println("Sruniraj Edited this File for testing at 3.01 PM ");
 		System.out.println("Sruniraj Edited this File for testing at 3.01 PM ");
 	}
 }
